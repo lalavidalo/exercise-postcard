@@ -59,7 +59,7 @@ p {
 }
 button {
 	background-color: lightgrey;
-	/*padding: 10px;*/
+	padding: 10px;
 	font-style: italic;
 }
 h6 {
